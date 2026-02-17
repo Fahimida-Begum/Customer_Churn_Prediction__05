@@ -19,9 +19,10 @@ Customer-Churn-Prediction/
 │
 ├── datasets/
 
-|   └──DataDescription.txt
+     └──DataDescription.txt
+|
 
-|   └──Telco_Customer_Churn.xlsx
+     └──Telco_Customer_Churn.xlsx
 
 ├──Churn_Prediction.ipynb
 
@@ -60,7 +61,7 @@ Target Variable:
 
 -Random Forest
 
-=XGBoost
+-XGBoost
 
 👉Better Performance: XGBoost
 

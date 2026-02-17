@@ -15,19 +15,17 @@ Perform exploratory Data analysis and predictive modelling and make sure below s
 3. What are the top 5 most important features driving churn predictions?
 
 📁 Project Structure
-Customer-Churn-Prediction/
-│
+Customer_Churn_Prediction/
 
-├── datasets/
-
-     └──DataDescription.txt
-|
-
-     └──Telco_Customer_Churn.xlsx
+│── datasets/
+    
+    └── │──DataDescription.txt
+    └── |──Telco_Customer_Churn.xlsx
 
 ├──Churn_Prediction.ipynb
 
 └── README.md
+
 
 ✍️📃Step-by-Step Workflow
 

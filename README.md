@@ -17,6 +17,7 @@ Perform exploratory Data analysis and predictive modelling and make sure below s
 📁 Project Structure
 Customer-Churn-Prediction/
 │
+
 ├── datasets/
 
      └──DataDescription.txt
